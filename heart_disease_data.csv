@@ -1,0 +1,15 @@
+SuperSeniorCitizen,Male,Yes,High,Athelete,High,Yes
+SeniorCitizen,Female,No,Medium,Moderate,Normal,No
+MiddleAged,Male,Yes,Medium,Moderate,BorderLine,Yes
+Youth,Female,No,High,Active,BorderLine,No
+Teen,Male,Yes,Medium,Athelete,Normal,No
+SuperSeniorCitizen,Female,Yes,Low,Moderate,High,Yes
+MiddleAged,Female,No,High,Active,BorderLine,No
+SeniorCitizen,Male,Yes,Low,Active,High,Yes
+Youth,Male,Yes,Medium,Athelete,Normal,No
+MiddleAged,Female,No,High,Active,Normal,No
+Teen,Female,No,Low,Active,Normal,No
+SuperSeniorCitizen,Female,No,Medium,Active,BorderLine,No
+SeniorCitizen,Male,No,High,Moderate,Normal,No
+Teen,Male,Yes,Medium,Athelete,Normal,No
+MiddleAged,Male,Yes,Medium,Moderate,BorderLine,Yes
